@@ -6,5 +6,5 @@ pluginManagement {
     }
 }
 
-rootProject.name = "demo"
+rootProject.name = "server"
 
